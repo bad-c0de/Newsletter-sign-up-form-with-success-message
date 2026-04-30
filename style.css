@@ -190,7 +190,7 @@ Media Queries
     }
 
     .sign-up-container {
-        margin: 0;
+        padding: 0;
     }
 
     #email-input {
